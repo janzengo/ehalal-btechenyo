@@ -277,8 +277,7 @@ class OTPMailer {
 
 These security improvements transformed the E-Halal BTECHenyo system from a procedural codebase with exposed credentials and SQL injection vulnerabilities into a secure, object-oriented application following modern security best practices. The refactoring provides:
 
-- **Defense in depth** through multiple security layers
-- **Principle of least privilege** via encapsulation
+- **Overall code quality and security overhaul** by leveraging the power of Object Oriented Programming
 - **Secure by default** configuration management
 - **Audit trail** for all critical operations
 - **Protection against common web vulnerabilities** (SQL injection, session attacks, credential exposure)
