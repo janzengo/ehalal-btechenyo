@@ -1,0 +1,8 @@
+.vscode/
+.env
+/memory-bank/
+/node_modules/
+/vendor/
+.htaccess
+/docs/
+.cursorrules
